@@ -127,6 +127,5 @@ module Goldencobra
         self.title = self.title.gsub(".", "_")
       end
     end
-
   end
 end
